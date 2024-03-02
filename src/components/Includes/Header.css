@@ -1,0 +1,5 @@
+.nav-section{
+    padding: 15px 100px;
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+}
